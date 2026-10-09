@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/modelcontextprotocol/transports-wg/commit/f8a5e86506c859dc7b08dfc9ea81aedbf6d2d8fe",
       "git:hexsha": "f8a5e86506c859dc7b08dfc9ea81aedbf6d2d8fe",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
